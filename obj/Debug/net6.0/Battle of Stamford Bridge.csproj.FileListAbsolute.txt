@@ -1,0 +1,17 @@
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.csproj.AssemblyReference.cache
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.AssemblyInfoInputs.cache
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.AssemblyInfo.cs
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\bin\Debug\net6.0\Battle of Stamford Bridge.exe
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\bin\Debug\net6.0\Battle of Stamford Bridge.deps.json
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\bin\Debug\net6.0\Battle of Stamford Bridge.runtimeconfig.json
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\bin\Debug\net6.0\Battle of Stamford Bridge.dll
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\bin\Debug\net6.0\Battle of Stamford Bridge.pdb
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\bin\Debug\net6.0\ColorConsole.dll
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.csproj.CopyComplete
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.dll
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\refint\Battle of Stamford Bridge.dll
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.pdb
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\Battle of Stamford Bridge.genruntimeconfig.cache
+C:\Users\Contu\source\repos\Battle of Stamford Bridge\Battle of Stamford Bridge\obj\Debug\net6.0\ref\Battle of Stamford Bridge.dll
