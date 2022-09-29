@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xXjd5RNT/9aGhU6J7jG/VGXxlNQdk4grg4v06WpssrytIhc5Xjpan6IpF2C3dkRTGIHJMuV30essGUj0/TQDxA==",
+  "dgSpecHash": "JyXOh4kN2za5qN8GdFmOl+Wzcb6HvTW4LgKCddDmVd6KTIBjiXEQdDLnVkYGpZMyZvdTnbRbkD/jlCgb5k9tng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj",
+  "projectFilePath": "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Contu\\.nuget\\packages\\colorconsole\\1.0.1\\colorconsole.1.0.1.nupkg.sha512"
   ],
@@ -11,7 +11,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'ColorConsole 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'ColorConsole 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "ColorConsole",
       "targetGraphs": [
         "net6.0"
