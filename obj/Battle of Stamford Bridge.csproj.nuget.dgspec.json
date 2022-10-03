@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj": {}
+    "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj": {
+    "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj",
+        "projectUniqueName": "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj",
         "projectName": "Battle of Stamford Bridge",
-        "projectPath": "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj",
+        "projectPath": "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj",
         "packagesPath": "C:\\Users\\Contu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Viking-Game-thingy\\obj\\",
+        "outputPath": "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,8 +55,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

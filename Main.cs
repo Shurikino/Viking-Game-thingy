@@ -1,29 +1,32 @@
-﻿using GameStates;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MainMenu;
+using Game;
+using MenuTextJson;
 
 namespace Main
 {
-    class game
+    class program
     {
         static void Main(string[] args)
         {
-            Menu firstScreen = new Menu();
-            firstScreen.menuText();
-
-
-
-
-
-
+            game firstScreen = new game();
+            firstScreen.menuAndIntro();
+            
 
         }
     }
 }
+
+
+
+
+
+
+
     
     
        
