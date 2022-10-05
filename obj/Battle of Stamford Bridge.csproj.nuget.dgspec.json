@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj": {}
+    "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj": {
+    "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj",
+        "projectUniqueName": "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj",
         "projectName": "Battle of Stamford Bridge",
-        "projectPath": "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\Battle of Stamford Bridge.csproj",
+        "projectPath": "C:\\Repos\\Viking-Game-thingy\\Battle of Stamford Bridge.csproj",
         "packagesPath": "C:\\Users\\Contu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Contu\\source\\repos\\Battle of Stamford Bridge\\Battle of Stamford Bridge\\obj\\",
+        "outputPath": "C:\\Repos\\Viking-Game-thingy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "ColorConsole": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[1.0.1, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -55,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
