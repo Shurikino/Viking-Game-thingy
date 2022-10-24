@@ -32,3 +32,20 @@ C:\Repos\Viking-Game-thingy\obj\Debug\net6.0\refint\Battle of Stamford Bridge.dl
 C:\Repos\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.pdb
 C:\Repos\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.genruntimeconfig.cache
 C:\Repos\Viking-Game-thingy\obj\Debug\net6.0\ref\Battle of Stamford Bridge.dll
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\bin\Debug\net6.0\Battle of Stamford Bridge.exe
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\bin\Debug\net6.0\Battle of Stamford Bridge.deps.json
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\bin\Debug\net6.0\Battle of Stamford Bridge.runtimeconfig.json
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\bin\Debug\net6.0\Battle of Stamford Bridge.dll
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\bin\Debug\net6.0\Battle of Stamford Bridge.pdb
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.csproj.AssemblyReference.cache
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.AssemblyInfoInputs.cache
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.AssemblyInfo.cs
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.csproj.CopyComplete
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.dll
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\refint\Battle of Stamford Bridge.dll
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.pdb
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\Battle of Stamford Bridge.genruntimeconfig.cache
+C:\Users\Contu\OneDrive\Desktop\⠀\Coding\viking game whatever the fuck\Viking-Game-thingy\obj\Debug\net6.0\ref\Battle of Stamford Bridge.dll

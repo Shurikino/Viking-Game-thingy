@@ -5,17 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 using IntroScreen;
 using Tutorial;
+using MenuTextJson;
 
 namespace Game
 {
     public class game
     {
         IntroToGame introText = new IntroToGame();
+        MenuTextToJson jsonConverter = new MenuTextToJson();
 
         public void menuAndIntro()
         {
-            Console.WriteLine("BATTLE OF STAMFORD BRIDGE");
-            Console.WriteLine("\nPress p to Play\nPress q to Quit");
+            jsonConverter.menuTextToJson();
+            jsonConverter.menuTextFromJson();
             userDecision1();
         }
         public void userDecision1()

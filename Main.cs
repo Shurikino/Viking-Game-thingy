@@ -14,6 +14,7 @@ namespace Main
         static void Main(string[] args)
         {
             game firstScreen = new game();
+            
             firstScreen.menuAndIntro();
             
             
